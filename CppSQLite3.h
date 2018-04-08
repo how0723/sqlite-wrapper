@@ -1,14 +1,7 @@
-/*
- * CppSQLite
- * Developed by Rob Groves <rob.groves@btinternet.com>
- * Maintained by NeoSmart Technologies <http://neosmart.net/>
- * See LICENSE file for copyright and license info
-*/
-
 #ifndef CppSQLite3_H
 #define CppSQLite3_H
 
-#include "utils/sqlite3/sqlite3.h"
+#include "sqlite3.h"
 #include <cstdio>
 #include <cstring>
 
